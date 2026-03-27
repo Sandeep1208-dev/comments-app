@@ -16,3 +16,5 @@ A React application where users can add, like, and delete comments.
 - React.js
 - CSS
 - date-fns
+- ## Preview
+![Comments App](https://assets.ccbp.in/frontend/content/react-js/comments-app-output-v0.gif)
